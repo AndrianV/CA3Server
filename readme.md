@@ -1,1 +1,1 @@
-### Backend for the semester seed
+### REST Backend for the semester seed
